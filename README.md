@@ -11,6 +11,8 @@ d. Install REST Client for VS Code (my IDE) to test the GET and POST request.
 
 To start the project navigate to rbac/backend in terminal and type "nodemon index" to start the backend server.
 In a new terminal, navigate to rbac/frontend and type "npm start" to load the frontend interface.
+
+Admin credentials: email: "admin@gmail.com", password: "123456"
  
 There are 2 sections for this file. The first section explains the backend and the second section explains the frontend.
 
